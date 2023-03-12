@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @gameyall232
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Unity and C#
-- 💞️ I’m looking to collaborate on code
-- 📫 How to reach me discord
+- Hi, I’m @gameyall232
+- I’m a game developer
+- I’m learning Unity and C#
 
 <!---
 gameyall232/gameyall232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
